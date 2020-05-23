@@ -36,8 +36,8 @@ See the instructions
 - for mkusb version 12 alias dus, the main version:
   https://help.ubuntu.com/community/mkusb/gui/tarball
 
-- for mkusb-plug a new version with a plug-in method to identify the target device:
+- for mkusb-plug, a new version with a plug-in method to identify the target device:
   https://help.ubuntu.com/community/mkusb/plug
 
-- for a GUI interface 'eXtra Safe CLoner' for xorriso-dd-target:
+- for an experimental GUI interface 'eXtra Safe CLoner' for xorriso-dd-target:
   https://help.ubuntu.com/community/mkusb/xscl
