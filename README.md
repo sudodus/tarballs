@@ -41,3 +41,6 @@ See the instructions
 
 - for an experimental GUI interface 'eXtra Safe CLoner' for xorriso-dd-target:
   https://help.ubuntu.com/community/mkusb/xscl
+
+- for mkusb-nox, the old text mode version upgraded to work well for iso-testing 2022:
+  https:/help.ubuntu.com/community/mkusb/#mkusb-nox:_For_Servers_and_Shell_Environments
