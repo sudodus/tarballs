@@ -43,4 +43,4 @@ See the instructions
   https://help.ubuntu.com/community/mkusb/xscl
 
 - for mkusb-nox, the old text mode version upgraded to work well for iso-testing 2022:
-  https:/help.ubuntu.com/community/mkusb/#mkusb-nox:_For_Servers_and_Shell_Environments
+  [mkusb-nox: For Servers and Shell Environments](https://help.ubuntu.com/community/mkusb/#mkusb-nox:_For_Servers_and_Shell_Environments)
