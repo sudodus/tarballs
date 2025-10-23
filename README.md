@@ -33,7 +33,7 @@ In other linux distros and if you do not like PPA repositories, you can install 
 
 See the instructions
 
-- for mkusb version previously 12 now 22 alias dus, the main version:
+- for mkusb version previously 12 now 25 alias dus, the main version:
   https://help.ubuntu.com/community/mkusb/gui/tarball
 
 - for mkusb-plug, a new version with a plug-in method to identify the target device:
